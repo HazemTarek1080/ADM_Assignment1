@@ -33,6 +33,8 @@ Here are the instructions for using the contents of this repository:
 ## Getting Started
 
 If you'd like to work with the code in this repository, follow these steps:
+ 1. Clone the repository to your local machine:
+    git clone https://github.com/your-username/ADM_Assignment_1.git
 
 ## Contributors
 - Hazem Aboulfotouh
@@ -40,5 +42,4 @@ If you'd like to work with the code in this repository, follow these steps:
 - Email: aboulfotuh.2105193@studenti.uniroma1.it
 
 
-1. Clone the repository to your local machine:
-   git clone https://github.com/your-username/ADM_Assignment_1.git
+
